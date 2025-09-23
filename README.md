@@ -1,3 +1,8 @@
+# Modeling and Analysis of Spiking Patterns in LIF Neurons under Deterministic and Stochastic Current Inputs
+
+---
+
+
 ## Abstract
 
 Understanding the dynamics of neuronal spiking under different input currents is fundamental for computational neuroscience and neuromorphic engineering. This study investigates how single-compartment Leaky Integrate-and-Fire (LIF) neurons respond to various current inputs, including constant, linear ramp, floor, random, and sinusoidal currents. Both noisy and noiseless conditions are examined. Key metrics analyzed include spike timing, membrane potential trajectories, and instantaneous firing frequencies. Results demonstrate how neuron parameters such as membrane resistance, time constant, resting potential, and spiking threshold influence spiking patterns, highlighting the impact of input variability and intrinsic neuronal properties on firing behavior.
